@@ -197,8 +197,8 @@ print_separator("TEST 17 : get_link_count(db)")
 link_count = get_link_count(db)
 print(f" Nombre total de liens : {link_count}")
 
+  
 
-# Fermer la session
 db.close()
 print_separator("TESTS TERMINÉS")
 print(" Tous les tests ont été exécutés avec succès !")
