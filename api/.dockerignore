@@ -1,0 +1,14 @@
+#fichier python compilé
+__pycache__/
+*.py[codz]
+*.pyc
+*pyo
+*.log
+
+.env
+.git
+.gitignore
+.vscode
+.idea
+.DS_Store
+venv
